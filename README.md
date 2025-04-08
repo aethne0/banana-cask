@@ -1,4 +1,3 @@
-![Build&Test]
-(https://github.com/aethne0/banana-cask/actions/workflows/main.yml/badge.svg?event=push)
+[![Rust](https://github.com/aethne0/banana-cask/actions/workflows/rust.yml/badge.svg)](https://github.com/aethne0/banana-cask/actions/workflows/rust.yml)
 # banana-cask
 bitcask-esque kv store
